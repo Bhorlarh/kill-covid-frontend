@@ -33,7 +33,6 @@ class signup extends React.Component {
           <div className="signup-container">
             <div className="heading">
               <h2>Sign up</h2>
-              <h2>{"api key" + process.env.REACT_APP_API_KEY}</h2>
               <em>Create an account</em>
             </div>
             <form className="sign-up-form">
